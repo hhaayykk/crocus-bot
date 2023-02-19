@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "G6qwu4d+GUx5xgvuTrQwYHRmVTeXfl6DvFebj/2gtef4gJSN0H4yfDWdGPYyCziML8MbqoSMEVA3hrZ8FomaSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\OneDrive\\Документы\\crocusbot\\crocusbot\\crocusbot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.116\\stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\telegram.bot\\18.0.0-alpha.3\\telegram.bot.18.0.0-alpha.3.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\telegram.bot.extensions.polling\\2.0.0-alpha.1\\telegram.bot.extensions.polling.2.0.0-alpha.1.nupkg.sha512"
+  ],
+  "logs": []
+}
